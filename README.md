@@ -1,2 +1,2 @@
 # Chess-Tactics
-This is a chess apploication made by using java.
+This is a chess application made by using java.
